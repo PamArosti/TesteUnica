@@ -1,0 +1,17 @@
+{
+	"fixturesFolder": "mock",
+	"integrationFolder": "features",
+	"pluginsFile": "config/plugins.js",
+	"supportFile": "config/support.js",
+	"commandsFile": "config/commands.js",
+	"screenshotsFolder": "screenshots",
+	"chromeWebSecurity": false,
+	"baseUrl": "http://practice.automationtesting.in",
+	"video": false,
+	"reporter": "mochawesome",
+	"reporterOptions": {
+		"overwrite": false,
+		"html": false,
+		"json": true
+	}
+}
